@@ -23,4 +23,4 @@ However you must configure in this file parameters such as the database you are 
 
 ## NOTE ABOUT CHALLENGE 
 
-Instead of having the token in the .ENV file, we should authenticate through our api and thus get the token every time it expires.
+Instead of having the `ApiMedic` token in the .ENV file, we should authenticate through our api and thus get the token every time it expires.
